@@ -1,0 +1,15 @@
+# Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local face samples contain personal biometric data
+face_data/
+
+# macOS / editor files
+.DS_Store
+.vscode/
+
+# The supplementary repository's image files have no confirmed image-level license.
+gesture_images/HandGesture-Recognizer/

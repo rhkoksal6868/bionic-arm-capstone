@@ -1,0 +1,5 @@
+opencv-contrib-python>=4.9,<5
+pyserial>=3.5,<4
+mediapipe>=0.10.14,<0.11
+certifi>=2024.2.2
+scikit-learn>=1.7,<2
